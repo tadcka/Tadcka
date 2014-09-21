@@ -122,3 +122,9 @@ ul.social-icons li a i:hover {
     -moz-transform: rotate(360deg);
     -o-transform: rotate(360deg);
 }
+
+.copyright {
+    /*margin-top: 15px;*/
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
