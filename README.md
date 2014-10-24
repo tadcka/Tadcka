@@ -1,4 +1,4 @@
 Tadcka
 ======
 
-Tadc'Ka website.
+Tadc'Ka website. http://tadcka.lt
